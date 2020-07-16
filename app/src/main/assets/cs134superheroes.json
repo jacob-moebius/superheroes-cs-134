@@ -1,0 +1,155 @@
+{
+  "CS134Superheroes": [    
+	{
+      "FileName": "ccolleran.png",
+      "Name": "Cameron C",
+      "Superpower": "Teleportation",
+      "OneThing": "Huge Padres fan"
+    },
+	{
+      "FileName": "jcoombs.png",
+      "Name": "Jamison C",
+      "Superpower": "Ability to fly",
+      "OneThing": "Yes weather is nice up here"
+    },
+	{
+      "FileName": "zdianovics.png",
+      "Name": "Zsuzsanna D",
+      "Superpower": "Spread empathy",
+      "OneThing": "If I see something, I will say and do something"
+    },
+	{
+      "FileName": "edominguez.png",
+      "Name": "Manny D",
+      "Superpower": "Super speed",
+      "OneThing": "I play marimba"
+    },
+	{
+      "FileName": "edyrenkova.png",
+      "Name": "Emiliia D",
+      "Superpower": "Eidetic memory",
+      "OneThing": "Know a lot about grad school"
+    },
+	{
+      "FileName": "kelias.png",
+      "Name": "Karina E",
+      "Superpower": "Telekinesis",
+      "OneThing": "Love to watch shows and movies"
+    },
+	{
+      "FileName": "aespinoza-merida.png",
+      "Name": "Alvaro E-M",
+      "Superpower": "Teleportation",
+      "OneThing": "Really like ramen"
+    },
+	{
+      "FileName": "sfuzzell.png",
+      "Name": "Sarah F",
+      "Superpower": "Ability to fly",
+      "OneThing": "Has pet duck, dog and lizard"
+    },
+	{
+      "FileName": "ahernandez.png",
+      "Name": "Alfredo H",
+      "Superpower": "Teleportation",
+      "OneThing": "Loves passion in any form"
+    },
+	{
+      "FileName": "yhernandez.png",
+      "Name": "Yocelyne H",
+      "Superpower": "Time travel",
+      "OneThing": "Every month I do a trip!"
+    },	
+	{
+      "FileName": "yimura.png",
+      "Name": "Yoshiko I",
+      "Superpower": "Teach Pilates and Yoga",
+      "OneThing": "I like cats, but don't have any"
+    },
+	{
+      "FileName": "mkatsaros.png",
+      "Name": "Michael K",
+      "Superpower": "Read minds",
+      "OneThing": "Enjoys hockey, snowboarding and wakeboarding"
+    },
+	{
+      "FileName": "kking.png",
+      "Name": "Kailyn K",
+      "Superpower": "Cloning, but it only worked once before birth!",
+      "OneThing": "I play too much!"
+    },
+	{
+      "FileName": "jllacuna.png",
+      "Name": "Justin L",
+      "Superpower": "Invisibility",
+      "OneThing": "Loves Quake-style shooters"
+    },
+	{
+      "FileName": "jmoebius.png",
+      "Name": "Jacob M",
+      "Superpower": "Control time",
+      "OneThing": "MS in Biomedical Engineering"
+    },
+	{
+      "FileName": "nmohammadiarani.png",
+      "Name": "Najmeh M A",
+      "Superpower": "Run for whole hour",
+      "OneThing": "I love cats"
+    },
+	{
+      "FileName": "snejad.png",
+      "Name": "Sam N",
+      "Superpower": "Charisma",
+      "OneThing": "I do improv"
+    },	
+	{
+      "FileName": "mpaulding.png",
+      "Name": "Michael P",
+      "Superpower": "Supercaring teacher power",
+      "OneThing": "Complete ocean nut!"
+    },	
+	{
+      "FileName": "aalejandroquezada.png",
+      "Name": "Angel A Q",
+      "Superpower": "Revised version of plunder",
+      "OneThing": "Play Call of Duty Comptetitvely"
+    },
+	{
+      "FileName": "crios.png",
+      "Name": "Christian R",
+      "Superpower": "Clones of myself!",
+      "OneThing": "I love Pokemon!"
+    },
+	{
+      "FileName": "ssanchez.png",
+      "Name": "Sabad S",
+      "Superpower": "Super speed",
+      "OneThing": "I LOVE to draw"
+    },
+	{
+      "FileName": "mshin.png",
+      "Name": "Monika S",
+      "Superpower": "Telekinesis",
+      "OneThing": "I like video games"
+    },
+	{
+      "FileName": "rvazquez.png",
+      "Name": "Reyes V",
+      "Superpower": "Create anything from nothing",
+      "OneThing": "I like to hang out with friends"
+    },
+	{
+      "FileName": "bwang.png",
+      "Name": "Bin W",
+      "Superpower": "Candid photographer",
+      "OneThing": "Seeker of knowledge"
+    },
+	{
+      "FileName": "kwebb.png",
+      "Name": "Kevin W",
+      "Superpower": "Controlled flight",
+      "OneThing": "I can play bass"
+	
+    }
+  ]
+}

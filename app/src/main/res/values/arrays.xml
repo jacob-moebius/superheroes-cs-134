@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quiz_type">
+        <item>Superhero Name</item>
+        <item>Superpower</item>
+        <item>One Thing</item>
+    </string-array>
+</resources>
